@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/walen/static/css/main.c18e61e4.css",
+    "main.js": "/walen/static/js/main.a3937b51.js",
+    "static/media/tlo.jpg": "/walen/static/media/tlo.c1758fee253fe4f460bc.jpg",
+    "index.html": "/walen/index.html",
+    "main.c18e61e4.css.map": "/walen/static/css/main.c18e61e4.css.map",
+    "main.a3937b51.js.map": "/walen/static/js/main.a3937b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c18e61e4.css",
+    "static/js/main.a3937b51.js"
+  ]
+}
