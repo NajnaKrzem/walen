@@ -61,5 +61,13 @@ body {
 
   .potak {
     position: absolute;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     top: 40%;
+  }
+
+  .decyzja {
+    text-shadow: 0px 0px 38px rgba(222, 25, 118, 1);
+    font-size: 40px;
   }

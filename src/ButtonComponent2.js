@@ -16,8 +16,9 @@ const Button2 = ({buttonclicked}) => {
         onClick={handleClick}>TAK</button>
       ) : (
         <div className='potak'>
-          <img src="ścieżka/do/zdjęcia.jpg" alt="Zdjęcie" />
-          <p>Dobra decyzja </p>
+          {/* <img src="C:\Users\Najna\walen\projekt\lotus.jpg" alt="Zdjęcie" /> */}
+          <img style={{maxWidth:"40%"}}src={require('./lotus.JPG')} />
+          <p className='decyzja'>DOBRA DECYZJA! </p>
         </div>
       )}
     </>
