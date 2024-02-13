@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/walen/static/css/main.c18e61e4.css",
-    "main.js": "/walen/static/js/main.a3937b51.js",
+    "main.css": "/walen/static/css/main.83cbc46c.css",
+    "main.js": "/walen/static/js/main.4e04f860.js",
+    "static/media/lotus.JPG": "/walen/static/media/lotus.8b6772d20071144f4d7c.JPG",
     "static/media/tlo.jpg": "/walen/static/media/tlo.c1758fee253fe4f460bc.jpg",
     "index.html": "/walen/index.html",
-    "main.c18e61e4.css.map": "/walen/static/css/main.c18e61e4.css.map",
-    "main.a3937b51.js.map": "/walen/static/js/main.a3937b51.js.map"
+    "main.83cbc46c.css.map": "/walen/static/css/main.83cbc46c.css.map",
+    "main.4e04f860.js.map": "/walen/static/js/main.4e04f860.js.map"
   },
   "entrypoints": [
-    "static/css/main.c18e61e4.css",
-    "static/js/main.a3937b51.js"
+    "static/css/main.83cbc46c.css",
+    "static/js/main.4e04f860.js"
   ]
 }
